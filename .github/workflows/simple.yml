@@ -8,8 +8,8 @@ on:
   push:
     branches: 
          - master
-         - action_test
-         - third
+         - 'action_test'
+         - 'third'
  
   pull_request:
     branches: action_test
