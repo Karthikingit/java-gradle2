@@ -7,6 +7,7 @@ Please read this Article to make the best use of this git repo
 
 ## Cloning the Code
 
+
 Clone this code into your local using the following command
 
 `git clone https://github.com/aditya-sridhar/simple-gradle-java-app.git`
