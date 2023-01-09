@@ -8,10 +8,14 @@
 name: Java CI with Gradle
 
 on:
+  workflow_dispatch:
+    inputs:
+      tags:
+        description: "Tag Name"
   push:
-    branches: [ "master" ]
+    branches: action_test
   pull_request:
-    branches: [ "master" ]
+    branches: action_test
     
 
 permissions:
