@@ -13,9 +13,8 @@ on:
       tags:
         description: "Tag Name"
   push:
-    branches: 
-      - 'action_test'
-      - 'third'
+    branches: [action_test, third]
+ 
   pull_request:
     branches: action_test
     
