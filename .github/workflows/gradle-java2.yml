@@ -13,7 +13,9 @@ on:
       tags:
         description: "Tag Name"
   push:
-    branches: action_test
+    branches: 
+      - action_test
+      - master
   pull_request:
     branches: action_test
     
