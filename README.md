@@ -6,7 +6,6 @@ Please read this Article to make the best use of this git repo
 [https://adityasridhar.com/posts/how-to-get-started-with-gradle](https://adityasridhar.com/posts/how-to-get-started-with-gradle)
 
 ## Cloning the Code
-
 Clone this code into your local using the following command
 
 `git clone https://github.com/aditya-sridhar/simple-gradle-java-app.git`
