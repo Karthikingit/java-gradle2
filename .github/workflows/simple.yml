@@ -1,18 +1,11 @@
 name: Java CI with Gradle
 
 on:
-  workflow_dispatch:
-    inputs:
-      tags:
-        description: "Tag Name"
   push:
     branches: 
          - master
          - 'action_test'
          - 'third'
- 
-  pull_request:
-    branches: action_test
     
 
 permissions:
