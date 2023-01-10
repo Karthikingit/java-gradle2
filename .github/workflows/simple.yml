@@ -6,6 +6,10 @@ on:
          - master
          - 'action_test'
          - 'third'
+  pull_request:
+     branches:
+        - master
+        
     
 
 permissions:
