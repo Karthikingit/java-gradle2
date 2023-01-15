@@ -10,7 +10,6 @@ Clone this code into your local using the following command
 
 `git clone https://github.com/aditya-sridhar/simple-gradle-java-app.git`
 
-
 ## Building the Application 
 
 The application can be built using the following command 
