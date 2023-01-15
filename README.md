@@ -14,6 +14,7 @@ Clone this code into your local using the following command
 
 The application can be built using the following command 
 
+
 **Windows** : `gradlew.bat build`
 
 **Linux/MacOS**: `./gradlew build`
